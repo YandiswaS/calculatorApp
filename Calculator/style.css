@@ -1,0 +1,50 @@
+*{
+    background-color: grey;
+}
+h1{
+margin-left: 30%;
+
+}
+
+table{
+    color: #fff;
+    text-align: center;
+    border-collapse: collapse;
+    font: normal 3em Arial, Helvitica, sans-serif;
+    width: 50%;
+    margin-left: 20%;
+}
+
+tr{
+
+    background-color: #4e494d;
+    margin-left: 50%;
+}
+
+td{
+    width: 25vw;
+    border: 1px solid #4e494d;
+}
+
+#inputBox{
+    background-color: #4e494d;
+    text-align: right;
+    width: 100%;
+    font-size: 2em;
+    color: #fff;
+    border: 0px;
+}
+
+.digitButton{
+    background-color: #807e80;
+}
+
+.operatorButton{
+    background-color: #ff9e06;
+}
+
+.ACButton{
+    background-color: #656165;
+}
+
+
